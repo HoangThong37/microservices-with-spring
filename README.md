@@ -1,6 +1,6 @@
-# Master Microservices with Java, Spring, Docker, Kubernetes
-
-[![Image](https://github.com/eazybytes/microservices-with-spring-sectionwise-code/blob/master/Microservice.png "Master Microservices with Java, Spring, Docker, Kubernetes")](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/?referralCode=9365DB9B7EE637F629A9)
+# Microservices with Java, Spring, Docker, Kubernetes
+# Hoàng Trung Thông
+## Backend Developer
 
 Learn how to create enterprise and production ready Microservices with Spring, Spring Cloud, Docker and Kubernetes.
 
